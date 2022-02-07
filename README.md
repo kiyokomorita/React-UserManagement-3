@@ -1,2 +1,2 @@
-# React-UserManagement-3
+# udemy-react2-chakra
 Created with CodeSandbox
